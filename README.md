@@ -1,3 +1,5 @@
+Attention, the project is under development, so it is subject to change.
+
 # LumiTimeV2
 
 LumiTimeV2 - this is a project of an “perpetual” wristwatch charged by the sun.
