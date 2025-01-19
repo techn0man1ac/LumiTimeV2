@@ -59,7 +59,7 @@ The circuitry of the clock provides for a sufficient number of parts, due to whi
 ## Charging system
 
 The project uses 12 photodiodes BPW34S(PV array) that work like miniature solar panels, whose function is to charge the battery from light. 
-The charging circuit is very primitive, since each micro-solar panel generates ~0.5V, if they are all 12 connected in series, the total voltage will be around 6 V, protect to overcharge the battery,used ZD1 Zener diode(4.7V), and a diode D14 is also prevent to reverse current(current flow into the solar panels) and add drop voltage 0.6-0.7V, as a result, we have a battery charging system with voltage like 4.0..4.1V. Charging current on a sunny day is ~2 mA.
+The charging circuit is very primitive, since each micro-solar panel generates ~0.5V, if they are all 12 connected in series, the total voltage will be around 6 V, protect to overcharge the battery,used ZD1 Zener diode(4.7V), and a diode D13 is also prevent to reverse current(current flow into the solar panels) and add drop voltage 0.6-0.7V, as a result, we have a battery charging system with voltage like 4.0..4.1V. Charging current on a sunny day is ~2 mA.
 
 ## Battery
 
