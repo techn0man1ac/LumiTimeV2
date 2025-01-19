@@ -2,7 +2,7 @@ Attention, the project is under development, so it is subject to change.
 
 # LumiTimeV2
 
-LumiTimeV2 - next step of previous project [12 LED ATtiny "Perpetual" Wristwatch](https://github.com/techn0man1ac/PerpetualLEDWristwatch). This is the simple and "Perpetual" Wristwatch(project code name "LumiTimeV2") with 12 red LEDs, it have LIR3032 Li-Ion battery and 12 solar cells, based on a Microchip microcontroller ATmega328P. It full open source(firmware and hardware).
+LumiTimeV2 - next generation simple and "Perpetual" Wristwatch [12 LED ATtiny "Perpetual" Wristwatch](https://github.com/techn0man1ac/PerpetualLEDWristwatch). This is the simple and "Perpetual" Wristwatch(project code name "LumiTimeV2") with 12 red LEDs, it have LIR3032 Li-Ion battery and 12 solar cells, based on a Microchip microcontroller ATmega328P. It full open source(firmware and hardware).
 
 # Video demonstration:
 
