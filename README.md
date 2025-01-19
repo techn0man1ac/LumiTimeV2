@@ -54,7 +54,7 @@ https://github.com/techn0man1ac/LumiTimeV2/tree/main/LumiTimeV2/PCB/3dModel
 
 The circuitry of the clock provides for a sufficient number of parts, due to which the board is required to have parts on both sides. Here is a detailed description of each block on the schematic.
 
-![LumiTimeV2 Schematic](https://raw.githubusercontent.com/techn0man1ac/LumiTimeV2/refs/heads/main/LumiTimeV2/img/Schematic.png)
+![LumiTimeV2 Schematic](https://raw.githubusercontent.com/techn0man1ac/LumiTimeV2/refs/heads/main/LumiTimeV2/img/LumiTimeV2Schematic.png)
 
 ## Charging system
 
