@@ -54,19 +54,18 @@ https://github.com/techn0man1ac/LumiTimeV2/tree/main/LumiTimeV2/PCB/3dModel
 
 The circuitry of the clock provides for a sufficient number of parts, due to which the board is required to have parts on both sides. Here is a detailed description of each block on the schematic.
 
+![LumiTimeV2 Schematic](https://raw.githubusercontent.com/techn0man1ac/LumiTimeV2/refs/heads/main/LumiTimeV2/img/Schematic.png)
+
 ## Charging system
 
 The project uses 12 photodiodes BPW34S(PV array) that work like miniature solar panels, whose function is to charge the battery from light. 
-
-![LumiTimeV2 Schematic](https://raw.githubusercontent.com/techn0man1ac/LumiTimeV2/refs/heads/main/LumiTimeV2/img/Schematic.png)
-
 The charging circuit is very primitive, since each micro-solar panel generates ~0.5V, if they are all 12 connected in series, the total voltage will be around 6 V, protect to overcharge the battery,used ZD1 Zener diode(4.7V), and a diode D14 is also prevent to reverse current(current flow into the solar panels) and add drop voltage 0.6-0.7V, as a result, we have a battery charging system with voltage like 4.0..4.1V. Charging current on a sunny day is ~2 mA.
 
 ## Battery
 
 /* Description may be here */
 
-## LEDs array
+## LEDs matrix
 
 /* Description may be here */
 
@@ -84,7 +83,7 @@ The charging circuit is very primitive, since each micro-solar panel generates ~
 
 # Our mission and vision
 
-It has a mission and vision that it borrowed from the previous version and carries the same values, such as:
+It has a mission and vision that it borrowed from the [previous version](https://github.com/techn0man1ac/PerpetualLEDWristwatch) and carries the same values, such as:
 
 ## Mission:
 
